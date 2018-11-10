@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -90,32 +90,26 @@
     <Reference Include="DevExpress.Printing.v13.2.Core">
       <Name>DevExpress.Printing.v13.2.Core</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.Printing.v13.2.Core.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Data.v13.2">
       <Name>DevExpress.Data.v13.2</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.Data.v13.2.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Utils.v13.2">
       <Name>DevExpress.Utils.v13.2</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.Utils.v13.2.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.XtraEditors.v13.2">
       <Name>DevExpress.XtraEditors.v13.2</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.XtraEditors.v13.2.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.XtraPrinting.v13.2">
       <Name>DevExpress.XtraPrinting.v13.2</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.XtraPrinting.v13.2.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.XtraGrid.v13.2">
       <Name>DevExpress.XtraGrid.v13.2</Name>
       <Private>True</Private>
-      <HintPath>c:\Projects\Workers\Worker79\TestFolder\Dlls\13.2.6\DevExpress.XtraGrid.v13.2.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
